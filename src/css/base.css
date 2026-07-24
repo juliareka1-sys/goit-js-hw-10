@@ -38,3 +38,8 @@ main:has(.back-link) {
   gap: 20px;
   flex-direction: row;
 }
+
+.form {
+  text-align: center;
+}
+
